@@ -1,16 +1,15 @@
-### Hi there 👋
+# 🚀 About Me
+# Hi i'm Gourav 👋
 
-<!--
-**Gouravspopale/Gouravspopale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I'm a Computer Science student with a passion for exploring the world of technology and data-driven solutions.
+-    My journey involves continuous learning and growth, and currently, I'm diving into the exciting realms of Artificial Intelligence with Python and Data Science.
+-
+- 🌱 I’m currently learning AI with Python  and Data science
+-
+-
+- 👨‍💻 Some of my interests and skills include:
+-**Machine Learning:**  Exploring the fascinating world of machine learning algorithms and models.
+- **Data Analysis:**    I'm Very much intrsted in analysis part of data to gain insight and some parameters .
+- **Python:**           My primary programming language for building AI and data science applications.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
