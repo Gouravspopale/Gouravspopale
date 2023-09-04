@@ -2,7 +2,7 @@
 # Hi i'm Gourav 👋
 
 
- 🏫 Jain  Collage of Engineering & Technology HUbli,
+ 🏫 Jain  Collage of Engineering & Technology Hubli,
  
  💻 I'm a Computer Science student with a passion for exploring the world of technology and data-driven solutions.
      My journey involves continuous learning and growth, and currently, I'm diving into the exciting realms of Artificial Intelligence with Python and Data Science.
