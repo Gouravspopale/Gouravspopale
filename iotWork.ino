@@ -6,12 +6,12 @@
 #include <FirebaseArduino.h>      
                         
  
-#define FIREBASE_HOST "footwear-abf3c-default-rtdb.firebaseio.com"              // the project name address from firebase id
+#define FIREBASE_HOST "footwear-abf3c-default-rtdb.firebaseio.com"     // the project name address from firebase id
 #define FIREBASE_AUTH "fZ3DW9P7TQapIDsS3YCaihofrH3hLUVWi8oaaKpD"       // the secret key generated from firebase
 #define WIFI_SSID "GouravA51"                                          
 #define WIFI_PASSWORD "gourav2004"                                  
  
-String fireStatus = "";                                                     // led status received from firebase
+String fireStatus = "";          // led status received from firebase
 
 int led1 = 5;  
 int led2 = 16 ;
@@ -39,15 +39,15 @@ void setup()
   Serial.println(WIFI_SSID);
   Firebase.begin(FIREBASE_HOST, FIREBASE_AUTH);   
   Firebase.setString("LED_STATUS", "OFF");               // connect to firebase
-                        //send initial string of led status
+                                                         //send initial string of led status
 }
  
 void loop()
 {
 
-  fireStatus = Firebase.getString("LED_STATUS");                                      // get ld status input from firebase
+  fireStatus = Firebase.getString("LED_STATUS");        // get ld status input from firebase
   if (fireStatus == "ON")
-  {                                                          // compare the input of led status received from firebase
+  {                                                     // compare the input of led status received from firebase
     Serial.println("Led Turned ON");                                                        
     digitalWrite(led1, HIGH);  
     digitalWrite(led2, LOW); 
@@ -56,15 +56,15 @@ void loop()
     Firebase.setString("LED_STATUS", "OFF");
 
     
-                                                            // make external led ON
+                                             // make external led ON
   }
   else if (fireStatus == "OFF")
-  {                                                  // compare the input of led status received from firebase
+  {                                          // compare the input of led status received from firebase
     Serial.println("Led Turned OFF");
     digitalWrite(led2, HIGH);  
     digitalWrite(led1, LOW); 
     digitalWrite(SOL_PIN, LOW); 
-    // s1.write(0);                                                        // make external led OFF
+    // s1.write(0);                          // make external led OFF
   }
   else
   {
