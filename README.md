@@ -18,7 +18,7 @@ Let's connect and learn together! Feel free to explore my projects and repositor
 
 📧 Email: [gouravspopale111@gmail.com]
 
-💼 LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/gourav-popale)https://www.linkedin.com/in/gourav-popale]
+💼 LinkedIn: [[](https://www.linkedin.com/in/gourav-popale)https://www.linkedin.com/in/gourav-popale]
 
 [![](https://img.shields.io/badge/AI%20With-%20Python-cyan)]()
 
