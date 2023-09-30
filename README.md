@@ -1,19 +1,25 @@
-# 🚀 About Me
-# Hi i'm Gourav 👋
+👋 Hello, I'm Gourav
 
+👨‍💻 Computer Science Engineering Student.. In Jain College Of Enginnering And Technology Hubblli | 🤖 AI Enthusiast | 🐍 Python coder 
 
- 🏫 Jain  Collage of Engineering & Technology Hubli,
- 
- 💻 I'm a Computer Science student with a passion for exploring the world of technology and data-driven solutions.
-     My journey involves continuous learning and growth, and currently, I'm diving into the exciting realms of Artificial Intelligence with Python and Data Science.
+🌟 About Me
+I'm a passionate computer engineering student with a keen interest in artificial intelligence and a strong affection for Python. My journey into the world of technology started with a simple "Hello, World!" program, and 
 
-🌱 I’m currently learning AI with Python  and Data science
+And i have finished my AI with 🐍python and some 🤖machine larning programs
 
+🛠️ Tech Stack
+Python | TensorFlow | Scikit-Learn | Git
 
- 👨‍💻 Some of my interests and skills include:
- 
--**Machine Learning:**  Exploring the fascinating world of machine learning algorithms and models.
-- **Data Analysis:**    I'm Very much intrsted in analysis part of data to gain insight and some parameters .
-- **Python:**           My primary programming language for building AI and data science applications.
+🌐 Connect with Me
+
+Let's connect and learn together! Feel free to explore my projects and repositories, and don't hesitate to reach out for collaborations or just to chat about tech.
+
+📫 How to Reach Me
+
+📧 Email: [gouravspopale111@gmail.com]
+
+💼 LinkedIn: [[](https://www.linkedin.com/in/gourav-popale)https://www.linkedin.com/in/gourav-popale]
+
+[![](https://img.shields.io/badge/AI%20With-%20Python-cyan)]()
 
 
