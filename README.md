@@ -1,9 +1,9 @@
 👋 Hello, I'm Gourav
 
-👨‍💻 Computer Engineering Student.. in jain collage of enginnering and technology Hubblli | 🤖 AI Enthusiast | 🐍 Python coder 
+👨‍💻 Computer Science Engineering Student.. In Jain College Of Enginnering And Technology Hubblli | 🤖 AI Enthusiast | 🐍 Python coder 
 
 🌟 About Me
-I'm a passionate computer engineering student with a keen interest in artificial intelligence and a strong affection for Python. My journey into the world of technology started with a simple "Hello, World!" program, and I've been captivated by the endless possibilities ever since.
+I'm a passionate computer engineering student with a keen interest in artificial intelligence and a strong affection for Python. My journey into the world of technology started with a simple "Hello, World!" program, and 
 
 And i have finished my AI with 🐍python and some 🤖machine larning programs
 
