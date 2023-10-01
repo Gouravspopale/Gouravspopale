@@ -1,28 +1,32 @@
-👋 Hello, I'm Gourav
+<h1 align="center">Hi 👋, I'm Gourav S Popale</h1>
+<h3 align="center">I am pursuing my education as a Computer Science Engineering🎓 in Jain Engineering College,HUBBLLI</h3>
 
-👨‍💻 Computer Science Engineering Student.. In Jain College Of Enginnering And Technology Hubblli | 🤖 AI Enthusiast | 🐍 Python coder 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gouravspopale&label=Profile%20views&color=0e75b6&style=flat" alt="gouravspopale" /> </p>
 
-🌟 About Me
-I'm a passionate computer engineering student with a keen interest in artificial intelligence and a strong affection for Python. My journey into the world of technology started with a simple "Hello, World!" program, and 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gouravspopale" alt="gouravspopale" /></a> </p>
 
-And i have finished my AI with 🐍python and some 🤖machine larning programs
+- 🔭 I’m currently working on **Smart Crop**
 
-[![](https://img.shields.io/badge/AI%20With-%20Python-cyan)]()
+- 🌱 I’m currently learning **AI With Python**
 
-🛠️ Tech Stack
-Python | TensorFlow | Scikit-Learn | Git
+- 📫 How to reach me **gouravspopale111@gmail.com**
 
-🌐 Connect with Me
+- ⚡ Fun fact **🎗️Committing to the journey, pixel by pixel, line by line✨**
 
-Let's connect and learn together! Feel free to explore my projects and repositories, and don't hesitate to reach out for collaborations or just to chat about tech.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://linkedin.com/in/gourav-popale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/gourav-popale" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21980541/gourav-popale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21980541/gourav-popale" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/gouravpopale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/gouravpopale" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/gouravpopale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/gouravpopale" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/gouravpopale/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/gouravpopale/" height="30" width="40" /></a>
+</p>
 
-📫 How to Reach Me
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-📧 Email: [gouravspopale111@gmail.com]
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gouravspopale&show_icons=true&locale=en&layout=compact" alt="gouravspopale" /></p>
 
-💼 LinkedIn: [[](https://www.linkedin.com/in/gourav-popale)https://www.linkedin.com/in/gourav-popale]
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gouravspopale&show_icons=true&locale=en" alt="gouravspopale" /></p>
 
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Gouravspopale)](https://git.io/streak-stats)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gouravspopale&" alt="gouravspopale" /></p>
