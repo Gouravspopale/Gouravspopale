@@ -21,6 +21,5 @@ Let's connect and learn together! Feel free to explore my projects and repositor
 💼 LinkedIn: [[](https://www.linkedin.com/in/gourav-popale)https://www.linkedin.com/in/gourav-popale]
 
 [![](https://img.shields.io/badge/AI%20With-%20Python-cyan)]()
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Gouravspopale)](https://git.io/streak-stats)
+            [![GitHub Streak](https://streak-stats.demolab.com/?user=Gouravspopale)](https://git.io/streak-stats)
 
