@@ -22,4 +22,5 @@ Let's connect and learn together! Feel free to explore my projects and repositor
 
 [![](https://img.shields.io/badge/AI%20With-%20Python-cyan)]()
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Gouravspopale)](https://git.io/streak-stats)
 
