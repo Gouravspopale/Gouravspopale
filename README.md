@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **AI With Python**
 
+- i'am very much intrested✨ in Working on Iot projects🚀 and Data visualization📊 part to get good insights from the work
+
 - 📫 How to reach me **gouravspopale111@gmail.com**
 
 - ⚡ Fun fact **🎗️Committing to the journey, pixel by pixel, line by line✨**
