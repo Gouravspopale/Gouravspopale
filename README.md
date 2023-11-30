@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gourav S Popale</h1>
-![Header](./https://github.com/Gouravspopale/Gouravspopale/raw/main/assets/124276485/48a85894-23ae-4a72-b792-e002f7af8ab1.png)
-![Header](https://github.com/Gouravspopale/Gouravspopale/raw/main/assets/124276485/48a85894-23ae-4a72-b792-e002f7af8ab1.png)
+
+![github-header-image](https://github.com/Gouravspopale/Gouravspopale/assets/124276485/7cb7bdd4-0f8a-46e9-a1fb-079be1cc0d68age-name.png)
 
 <h3 align="center">I am pursuing my education as a Computer Science Engineering🎓 in Jain Engineering College,HUBBLLI</h3>
 <!-- <img align="rigth" alt="coding" widh="200"  src="https://img.freepik.com/premium-vector/coding-programming-concept-illustration_188398-765.jpg" -->
