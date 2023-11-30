@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gourav S Popale</h1>
 <h3 align="center">I am pursuing my education as a Computer Science Engineering🎓 in Jain Engineering College,HUBBLLI</h3>
+<img align="rigth" alt="coding" widh="400" src="https://img.freepik.com/premium-vector/coding-programming-concept-illustration_188398-765.jpg"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gouravspopale&label=Profile%20views&color=0e75b6&style=flat" alt="gouravspopale" /> </p>
 
