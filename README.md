@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gourav S Popale</h1>
+![Header](./https://github.com/Gouravspopale/Gouravspopale/raw/main/assets/124276485/48a85894-23ae-4a72-b792-e002f7af8ab1.png)
 ![Header](https://github.com/Gouravspopale/Gouravspopale/raw/main/assets/124276485/48a85894-23ae-4a72-b792-e002f7af8ab1.png)
 
 <h3 align="center">I am pursuing my education as a Computer Science Engineering🎓 in Jain Engineering College,HUBBLLI</h3>
