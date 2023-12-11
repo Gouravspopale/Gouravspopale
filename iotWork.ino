@@ -15,7 +15,7 @@ String fireStatus = "";          // led status received from firebase
 
 int led1 = 5;  
 int led2 = 16 ;
-int SOL_PIN = D3; // Define the GPIO pin connected to the solenoid
+int SOL_PIN = D3;               // Define the GPIO pin connected to the solenoid
 
                                                              
 void setup()
