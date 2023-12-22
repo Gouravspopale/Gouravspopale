@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Smart Crop**
 
-- 🌱 I’m currently learning **AI With Python**
+- 🌱 I’have currently Finished **AI With Python** And Pursuving with **Data Analaysis By CISCO**
 
 - i'am very much intrested✨ in Working on Iot projects🚀 and Data visualization📊 part to get good insights from the work
 
