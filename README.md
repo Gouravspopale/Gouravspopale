@@ -22,6 +22,8 @@
 
 - ⚡ Fun fact **🎗️Committing to the journey, pixel by pixel, line by line✨**
 
+-  🎖️ I have Earned Badges in = https://www.cloudskillsboost.google/profile/badges
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://linkedin.com/in/gourav-popale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/gourav-popale" height="30" width="40" /></a>
