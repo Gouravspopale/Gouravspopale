@@ -3,7 +3,7 @@
 ![github-header-image](https://github.com/Gouravspopale/Gouravspopale/assets/124276485/5264e948-d44c-42bb-86c0-74c432a5ad12)
 
 
-<h3 align="center">I am pursuing my education as a Computer Science Engineering🎓 in Jain Engineering College,HUBBLLI</h3>
+<h3 align="center">I am pursuing my education as a Computer Science Engineering Student🎓 in Jain Engineering College,HUBBLLI</h3>
 <!-- <img align="rigth" alt="coding" widh="200"  src="https://img.freepik.com/premium-vector/coding-programming-concept-illustration_188398-765.jpg" -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gouravspopale&label=Profile%20views&color=0e75b6&style=flat" alt="gouravspopale" /> </p>
@@ -12,21 +12,19 @@
 <img src="https://github-profile-trophy.vercel.app/?username=gouravspopale&theme=onedark&row=1&column=7"/>
 </p>
 
-- 🔭 I’m currently working on **Smart Crop**
+- 🔭 I’m currently working on **Data Analysis Project**
 
 - 🌱 I’have currently Finished **AI With Python** And Pursuving with **Data Analaysis**
 
 - i'am very much intrested✨ in Working on Iot projects🚀 and Data visualization📊 part to get good insights from the work
 
-- I have completed my python course in #kaggal=: https://drive.google.com/file/d/1jS4eRTshGwYNsM2U1OhSO4FByqC0NZm4/view?usp=sharing
+-  🎖️ I have Earned Badges in = https://www.cloudskillsboost.google/profile/badges
 
-- 📫 How to reach me **gouravspopale111@gmail.com**
+-  Google dev profile..https://g.dev/Gouravspopale
 
 - ⚡ Fun fact **🎗️Committing to the journey, pixel by pixel, line by line✨**
 
--  🎖️ I have Earned Badges in = https://www.cloudskillsboost.google/profile/badges
-
--  Google dev..https://g.dev/Gouravspopale
+- 📫 How to reach me **gouravspopale111@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
