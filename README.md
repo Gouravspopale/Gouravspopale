@@ -8,10 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gouravspopale&label=Profile%20views&color=0e75b6&style=flat" alt="gouravspopale" /> </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gouravspopale&theme=flat&column=7" alt="gouravspopale trophies" />
-  </a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gouravspopale&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 - 🔭 I’m currently working on **Smart Crop**
