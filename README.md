@@ -3,8 +3,9 @@
 ![github-header-image](https://github.com/Gouravspopale/Gouravspopale/assets/124276485/5264e948-d44c-42bb-86c0-74c432a5ad12)
 
 
-<h3 align="center">I am pursuing my education as a Computer Science Engineering Student🎓 in Jain Engineering College,HUBBLLI</h3>
-<!-- <img align="rigth" alt="coding" widh="200"  src="https://img.freepik.com/premium-vector/coding-programming-concept-illustration_188398-765.jpg" -->
+<p align="center">
+🎓 Computer Science Engineering Student at Jain Engineering College, Hubballi
+</p>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
