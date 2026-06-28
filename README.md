@@ -3,10 +3,10 @@
 ![github-header-image](https://github.com/Gouravspopale/Gouravspopale/assets/124276485/5264e948-d44c-42bb-86c0-74c432a5ad12)
 
 
-<p align="center">
-🎓 **Computer Science Engineering Student at Jain Engineering College, Hubballi**
-  📊 **Aspiring Data Analyst | Python Developer | AI & ML Enthusiast**
-</p>
+<h3 align="center">
+🎓 Computer Science Engineering Student at Jain Engineering College, Hubballi
+  📊 Aspiring Data Analyst | Python Developer | AI & ML Enthusiast
+</h3>
 <p>
 <img src="https://komarev.com/ghpvc/?username=gouravspopale&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
@@ -17,6 +17,7 @@
   <img src="https://github-profile-trophy-ruby.vercel.app/?username=gouravspopale&theme=tokyonight&no-frame=false&column=6&margin-w=15" />
 </p>
 
+<h2>👨‍💻 About Me</h2>
 
 - 🔭 I’m currently working on **Data Analysis Project**
 
@@ -32,11 +33,11 @@
 
 - 📫 How to reach me **gouravspopale111@gmail.com**
 
-  
+---
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2>🌐 Connect With Me</h2>
 
-<p align="center">
+<p>
 
 <a href="https://linkedin.com/in/gourav-popale">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
@@ -56,16 +57,17 @@
 </a>
 -->
 
-<a href="https://instagram.com/gourav_popale">
+<a href="https://instagram.com/ava0.46">
 <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram" />
 </a>
 
 </p>
 
+---
 
 <h2 align="center">🛠️ Languages & Tools</h2>
 
-<p align="center">
+<p>
 
 <!-- Programming Languages -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
@@ -98,8 +100,28 @@
 
 </p>
 
+---
 
+<h2>🏆 Certifications</h2>
 
+- 📜 Deloitte Australia – Data Analytics Job Simulation (Forage, 2026)
+- 📜 NPTEL Elite – Data Mining for Decision Making (IIT Mandi, 2026)
+- 📜 Tata Group – Data Visualization: Empowering Business with Effective Insights (Forage, 2025)
+- 📜 Karnataka Training Centre - AI with Python (2023)
+
+---
+
+<h2>🎯 Current Goals</h2>
+
+- ✅ Master SQL
+- ✅ Build 20+ Data Analytics Projects
+- ✅ Learn Advanced Power BI
+- ✅ Learn Tableau
+- ✅ Master Machine Learning
+- ✅ Contribute to Open Source
+- ✅ Secure a Data Analyst Internship
+
+---
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
@@ -124,3 +146,31 @@
 <img src="https://streak-stats.demolab.com?user=gouravspopale&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+# 💡 Favorite Quote
+
+<p align="center">
+
+> **"In God we trust. All others must bring data."**
+
+### — W. Edwards Deming
+
+</p>
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</h3>
+
+<h4 align="center">
+
+If you like my work, don't forget to ⭐ my repositories.
+
+</h4>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=120&section=footer"/>
+
+</p>
