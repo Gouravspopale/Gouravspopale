@@ -6,7 +6,11 @@
 <h3 align="center">I am pursuing my education as a Computer Science Engineering Student🎓 in Jain Engineering College,HUBBLLI</h3>
 <!-- <img align="rigth" alt="coding" widh="200"  src="https://img.freepik.com/premium-vector/coding-programming-concept-illustration_188398-765.jpg" -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gouravspopale&label=Profile%20views&color=0e75b6&style=flat" alt="gouravspopale" /> </p>
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=gouravspopale&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=gouravspopale&theme=onedark&row=1&column=7"/>
