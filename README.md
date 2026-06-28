@@ -4,7 +4,7 @@
 
 
 <h3 align="center">
-🎓 Computer Science Engineering Student at Jain Engineering College, Hubballi
+🎓 Computer Science Engineering Student at Jain Engineering College, Hubballi<br>
   📊 Aspiring Data Analyst | Python Developer | AI & ML Enthusiast
 </h3>
 <p>
@@ -37,10 +37,10 @@
 
 <h2>🌐 Connect With Me</h2>
 
-<p>
+<p align="left">
 
-<a href="https://linkedin.com/in/gourav-popale">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
+<a href="https://www.linkedin.com/in/gourav-popale">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
 
 <!--
@@ -57,8 +57,8 @@
 </a>
 -->
 
-<a href="https://instagram.com/ava0.46">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram" />
+<a href="https://www.instagram.com/ava0.46/">
+<img src="https://skillicons.dev/icons?i=instagram" width="48"/>
 </a>
 
 </p>
