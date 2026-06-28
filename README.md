@@ -7,6 +7,7 @@
 🎓 Computer Science Engineering Student at Jain Engineering College, Hubballi
 </p>
 
+
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
@@ -27,6 +28,8 @@
 - ⚡ Fun fact **🎗️Committing to the journey, pixel by pixel, line by line✨**
 
 - 📫 How to reach me **gouravspopale111@gmail.com**
+
+  
 
 <h2 align="center">🌐 Connect With Me</h2>
 
@@ -92,9 +95,17 @@
 
 </p>
 
+
+
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
+<h2 align="center">💻 Most Used Languages</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouravspopale&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=gouravspopale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
