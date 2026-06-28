@@ -9,7 +9,7 @@
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
-<p>
+<p align="center">
   <img src="https://github-profile-trophy-ruby.vercel.app/?username=gouravspopale&theme=tokyonight&no-frame=false&column=6&margin-w=15" />
 </p>
 
