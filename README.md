@@ -6,7 +6,9 @@
 <p align="center">
 🎓 Computer Science Engineering Student at Jain Engineering College, Hubballi
 </p>
-
+<p>
+<img src="https://komarev.com/ghpvc/?username=gouravspopale&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
