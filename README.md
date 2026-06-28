@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gourav S Popale</h1>
+<!--<h1 align="center">Hi 👋, I'm Gourav S Popale</h1>-->
 
 ![github-header-image](https://github.com/Gouravspopale/Gouravspopale/assets/124276485/5264e948-d44c-42bb-86c0-74c432a5ad12)
 
