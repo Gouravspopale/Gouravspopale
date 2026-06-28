@@ -101,10 +101,12 @@
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="45" height="45"/>
 </a>
 
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gouravspopale&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-streak-stats.demolab.com?user=gouravspopale&theme=tokyonight&hide_border=true" height="180"/>
+
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gouravspopale&show_icons=true&locale=en&layout=compact" alt="gouravspopale" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gouravspopale&show_icons=true&locale=en" alt="gouravspopale" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gouravspopale&" alt="gouravspopale" /></p>
