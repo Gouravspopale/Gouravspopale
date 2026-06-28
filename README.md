@@ -65,7 +65,7 @@
 
 ---
 
-<h2 align="center">🛠️ Languages & Tools</h2>
+<h2>🛠️ Languages & Tools</h2>
 
 <p>
 
