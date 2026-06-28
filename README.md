@@ -98,19 +98,26 @@
 
 
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
 
-<p align="center">
-<h2 align="center">💻 Most Used Languages</h2>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouravspopale&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+<table>
+<tr>
 
-<img src="https://github-readme-stats.vercel.app/api?username=gouravspopale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouravspopale&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+</td>
+
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=gouravspopale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+</td>
+
+</tr>
+</table>
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=gouravspopale&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
