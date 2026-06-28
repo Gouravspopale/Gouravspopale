@@ -38,6 +38,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
 </a>
 
+<!--
 <a href="https://www.kaggle.com/gouravpopale">
 <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?logo=kaggle" />
 </a>
@@ -49,6 +50,7 @@
 <a href="https://www.hackerrank.com/gouravpopale">
 <img src="https://img.shields.io/badge/HackerRank-Profile-green?logo=hackerrank" />
 </a>
+-->
 
 <a href="https://instagram.com/gourav_popale">
 <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram" />
