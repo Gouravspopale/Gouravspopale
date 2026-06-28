@@ -26,13 +26,31 @@
 
 - 📫 How to reach me **gouravspopale111@gmail.com**
 
-## 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/gourav-popale)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?logo=kaggle)](https://www.kaggle.com/gouravpopale)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/gouravpopale/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?logo=hackerrank)](https://www.hackerrank.com/gouravpopale)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram)](https://instagram.com/gourav_popale)
+<p align="center">
+
+<a href="https://linkedin.com/in/gourav-popale">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
+</a>
+
+<a href="https://www.kaggle.com/gouravpopale">
+<img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?logo=kaggle" />
+</a>
+
+<a href="https://leetcode.com/gouravpopale/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode" />
+</a>
+
+<a href="https://www.hackerrank.com/gouravpopale">
+<img src="https://img.shields.io/badge/HackerRank-Profile-green?logo=hackerrank" />
+</a>
+
+<a href="https://instagram.com/gourav_popale">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram" />
+</a>
+
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
