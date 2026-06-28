@@ -35,6 +35,16 @@
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| 🍛 Indian Food Dataset Analysis | Python • Pandas • NumPy | Data cleaning, EDA, and visualization to extract insights from food data. |
+| ❤️ Heart Disease Prediction | Python • Scikit-Learn | ML model for predicting heart disease risk using data preprocessing. |
+| 📈 Sales Prediction | Python • ML | Sales forecasting using feature engineering and predictive modeling. |
+| 👨‍💼 Employee Layoff Prediction | Python • ML | HR analytics model to predict employee layoff risk factors. |
+
+---
 <h2>🌐 Connect With Me</h2>
 
 <p align="left">
