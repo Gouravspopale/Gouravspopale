@@ -23,7 +23,7 @@
 
 - 🌱 I’have currently Finished **AI With Python** And Pursuving with **Data Analaysis**
 
-- i'am very much intrested✨ in Working on Iot projects🚀 and Data visualization📊 part to get good insights from the work
+- i'am very much intrested ✨ in Working on Iot projects🚀 and Data visualization📊 part to get good insights from the work
 
 -  🎖️ I have Earned Badges in = https://www.cloudskillsboost.google/profile/badges
 
