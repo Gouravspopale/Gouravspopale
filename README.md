@@ -29,7 +29,7 @@
 
 -  Google dev profile..https://g.dev/Gouravspopale
 
-- ⚡ Fun fact **🎗️Committing to the journey, pixel by pixel, line by line✨**
+- ⚡Fun fact **🎗️Committing to the journey, pixel by pixel, line by line✨**
 
 - 📫 How to reach me **gouravspopale111@gmail.com**
 
