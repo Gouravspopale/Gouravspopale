@@ -133,7 +133,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2>📊 GitHub Analytics</h2>
 
 <div align="center">
 
