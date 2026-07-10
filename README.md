@@ -17,7 +17,7 @@
   <img src="https://github-profile-trophy-ruby.vercel.app/?username=gouravspopale&theme=tokyonight&no-frame=false&column=6&margin-w=15" />
 </p>
 
-<h2>👨‍💻 About Me</h2>
+<h2> About Me👨‍💻</h2>
 
 - 🔭 I’m currently working on **Data Analysis Project**
 
