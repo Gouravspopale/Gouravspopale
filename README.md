@@ -161,9 +161,9 @@
 
 <p align="center">
 
-> **"In God we trust. All others must bring data."**
+> **"Every expert was once a beginner who refused to give up."**
 
-### — W. Edwards Deming
+### — Helen Hayes
 
 </p>
 
