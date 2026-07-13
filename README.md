@@ -53,7 +53,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
 
-<!--
+
 <a href="https://www.kaggle.com/gouravpopale">
 <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?logo=kaggle" />
 </a>
