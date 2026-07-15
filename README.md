@@ -127,7 +127,6 @@
 - ✅ Learn Advanced Power BI
 - ✅ Learn Tableau
 - ✅ Master Machine Learning
-- ✅ Contribute to Open Source
 - ✅ Secure a Data Analyst Internship
 
 ---
