@@ -27,7 +27,7 @@
 
 -  🎖️ I have Earned Badges in = https://www.cloudskillsboost.google/profile/badges
 
-<!---  Google dev profile..https://g.dev/Gouravspopale-->
+-  Google dev profile..https://g.dev/Gouravspopale
 
 - ⚡Fun fact **🎗️Committing to the journey, pixel by pixel, line by line✨**
 
