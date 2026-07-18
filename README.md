@@ -54,7 +54,7 @@
 </a>
 
 
-<!--<a href="https://www.kaggle.com/gouravpopale">
+<a href="https://www.kaggle.com/gouravpopale">
 <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?logo=kaggle" width="48" />
 </a>-
 
@@ -64,7 +64,7 @@
 
 <a href="https://www.hackerrank.com/gouravpopale">
 <img src="https://img.shields.io/badge/HackerRank-Profile-green?logo=hackerrank" />
-</a>-->
+</a>
 
 <a href="https://www.instagram.com/ava0.46/">
 <img src="https://skillicons.dev/icons?i=instagram" width="48"/>
